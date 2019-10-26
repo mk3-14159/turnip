@@ -1,6 +1,6 @@
 # Turnip :)
 
-Turnip.vim is inspired by my favourite vegetable, Beetroots!
+Turnip.vim is inspired by my second favourite vegetable, Turnips!
 
 Turnip.vim supports the true colors for GVIM, NEOVIM and VIM
 
