@@ -5,7 +5,7 @@ Turnip.vim is inspired by my second favourite vegetable, Turnips!
 Turnip.vim supports the true colors for GVIM, NEOVIM and VIM
 
 
-![Turnip meme]()
+![Turnip meme](https://media.tenor.com/images/c68f16134fed6fca3108fd50d981e072/tenor.gif)
 
 #### Support
 
