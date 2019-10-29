@@ -1,6 +1,6 @@
 " Vim theme - turnip
 " Desgined by Meng Keat, Chong (2019-10-25)
-" @vivify
+" @Vi
 " Github mk3-14159
 " License: MIT
 " Copyright <2019> <Meng Keat, Chong>
